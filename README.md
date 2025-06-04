@@ -140,7 +140,7 @@ uv run pytest tests/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please submit issues or pull requests to the [GitHub repository](https://github.com/your-username/simpleject). Ensure tests pass and follow the coding style.
+Contributions are welcome! Please submit issues or pull requests to the [GitHub repository](https://github.com/MahmudulHassan5809/simpleject). Ensure tests pass and follow the coding style.
 
 ## 📄 License
 
