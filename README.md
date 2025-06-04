@@ -23,9 +23,9 @@ A lightweight, production-ready Dependency Injection (DI) framework for Python w
 Install the package using `uv` or `pip`:
 
 ```bash
-uv add your-di-package  # Replace with actual package name
+uv add simpleject  # Replace with actual package name
 # OR
-pip install your-di-package
+pip install simpleject
 ```
 
 ## 🧱 Project Structure
